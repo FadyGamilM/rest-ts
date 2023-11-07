@@ -1,0 +1,6 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"app is up and running on port 3030","timestamp":"2023-11-07T11:32:56.864Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"connecting to mongodb isntance ...","timestamp":"2023-11-07T11:32:56.867Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"connected successfully .. ","timestamp":"2023-11-07T11:32:56.897Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"app is up and running on port 3030","timestamp":"2023-11-07T11:33:26.489Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"connecting to mongodb isntance ...","timestamp":"2023-11-07T11:33:26.492Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"connected successfully .. ","timestamp":"2023-11-07T11:33:26.520Z"}
