@@ -18,3 +18,7 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"app is up and running on port 3030","timestamp":"2023-11-07T11:39:16.757Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"connecting to mongodb isntance ... ","timestamp":"2023-11-07T11:39:16.759Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"connected successfully .. ","timestamp":"2023-11-07T11:39:16.817Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"app is up and running on port 3030","timestamp":"2023-11-07T11:39:21.066Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"connecting to mongodb isntance ... ","timestamp":"2023-11-07T11:39:21.068Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"connected successfully .. ","timestamp":"2023-11-07T11:39:21.094Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"setup the endpoint routing ... ","timestamp":"2023-11-07T11:39:21.095Z"}

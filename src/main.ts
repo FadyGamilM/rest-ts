@@ -10,10 +10,11 @@ const port = config.get<number>("port")
 
 app.listen(port, async () => {
     logger.info(`app is up and running on port ${port}`)
-    // connect to database 
+    // --> connect to database 
     logger.info("connecting to mongodb isntance ... ")
     await connect();
 
+    // --> setup the router "aka endpoints"
     logger.info("setup the endpoint routing ... ")
     await router(app);
 })
